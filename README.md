@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=45EBQyfsXC8&ab_channel=Bicardine
 1. Manage TimerUI in UI Resources:
 ![Pic1](https://github.com/Bicardine/NaninovelTimer/assets/83329675/e7481e03-981b-49a3-979e-0793e5e90c01)
 
-2. Enable/disable bars in TimerUI prefab:
+2. Enable/disable wishful bars in TimerUI prefab:
 ![Pic2](https://github.com/Bicardine/NaninovelTimer/assets/83329675/22a64d81-428d-4c2e-89fa-a746920f88d9)
 
 
