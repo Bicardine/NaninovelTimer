@@ -1,0 +1,17 @@
+@back AlchemyRoom id:AlchemyRoom visible:true
+@choice "Walk away" goto:.Choice1
+@choice "Apologise" goto:.Choice2
+@setTimer 8 goto:.OnTargetTime
+@stop
+
+#Choice1
+You decide to leave.
+@stop
+
+#Choice2
+You apologize for your words.
+@stop
+
+#OnTargetTime
+@alert "You said nothing"
+@stop
