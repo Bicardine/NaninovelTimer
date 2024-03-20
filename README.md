@@ -3,7 +3,7 @@ Allows you to set countdown/visual timer to make choice
 
 ![Bars](https://github.com/Bicardine/NaninovelTimer/assets/83329675/18a34f1c-4cf8-4127-b468-a9b0b88b81fa)
 
-[![Demo](https://img.youtube.com/vi/45EBQyfsXC8)](https://www.youtube.com/watch?v=45EBQyfsXC8)
+[![Demo](https://img.youtube.com/vi/45EBQyfsXC8&ab_channel=Bicardine)](https://www.youtube.com/watch?v=45EBQyfsXC8&ab_channel=Bicardine)
 
 ## Requirement
 - Naninovel v1.18 or later
