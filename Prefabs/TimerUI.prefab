@@ -145,8 +145,8 @@ MonoBehaviour:
       m_Calls: []
   hideOnLoad: 1
   hideInThumbnail: 0
-  saveVisibilityState: 0
-  blockInputWhenVisible: 0
+  saveVisibilityState: 1
+  blockInputWhenVisible: 1
   allowedSamplers: []
   modalUI: 0
   fontChangeConfiguration: []
@@ -240,11 +240,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5899700913616845626, guid: 3b91d03c2ca29dc49bbe66a501a7fc99, type: 3}
       propertyPath: m_text
-      value: 12
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5899700913616845626, guid: 3b91d03c2ca29dc49bbe66a501a7fc99, type: 3}
       propertyPath: m_fontSize
-      value: 68.1
+      value: 72.3
       objectReference: {fileID: 0}
     - target: {fileID: 8269130367998718310, guid: 3b91d03c2ca29dc49bbe66a501a7fc99, type: 3}
       propertyPath: m_Pivot.x
