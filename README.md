@@ -14,11 +14,11 @@ Allows you to set countdown/visual timer to make choice
 
 2. Enabled bars in TimerUI prefab:
 ![Pic2](https://github.com/Bicardine/NaninovelTimer/assets/83329675/aa1bf17b-7d20-4842-b32c-26e47c464b35)
-3. Use **@setTimer** command where the **unnamed argument** is the number of seconds to choice and **goto** is the script (scriptName) or part of the script (.scriptName) where you need to go in case of time spent.
 
-![Pic3](https://github.com/Bicardine/NaninovelTimer/assets/83329675/e6aab459-9af5-40e5-a60c-01e04f143ecb)
+4. Use **@setTimer** command where the **unnamed argument** is the number of seconds to choice and **goto** is the script (scriptName) or part of the script (.scriptName) where you need to go in case of time spent.
+![Pic3](https://github.com/Bicardine/NaninovelTimer/assets/83329675/e4d11025-d90d-4b4f-9fab-30183b4a9725)
 
-4. TimerUI has an optional LerpColorComponent that changes the color of the bar depending on the remaining time.
+5. TimerUI has an optional LerpColorComponent that changes the color of the bar depending on the remaining time.
 ![Pic4](https://github.com/Bicardine/NaninovelTimer/assets/83329675/eb4e4bfe-3126-457e-b531-f03614d74081)
 
 # Adding a new TimerBarRenderer.
@@ -29,4 +29,3 @@ You can create different bars to display information about the remaining time. I
 
 2. Then add the prefab of the new bar in TimerUI and set the previously created class.
 ![Pic7](https://github.com/Bicardine/NaninovelTimer/assets/83329675/9c145a1d-3937-492d-a0e3-06d5fa2c5a68)
-
