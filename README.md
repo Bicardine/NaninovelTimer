@@ -1,6 +1,6 @@
 # Naninovel Timer
-https://www.youtube.com/watch?v=45EBQyfsXC8&ab_channel=Bicardine
 Allows you to set countdown/visual timer to make choice
+https://www.youtube.com/watch?v=45EBQyfsXC8&ab_channel=Bicardine
 
 ![Bars](https://github.com/Bicardine/NaninovelTimer/assets/83329675/18a34f1c-4cf8-4127-b468-a9b0b88b81fa)
 
