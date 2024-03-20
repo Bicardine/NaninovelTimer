@@ -1,9 +1,9 @@
 # Naninovel Timer
 Allows you to set countdown/visual timer to make choice
 
-![Bars](https://github.com/Bicardine/NaninovelTimer/assets/83329675/54e0217d-c858-44dc-942a-5b3db337baaa)
+![Bars](https://github.com/Bicardine/NaninovelTimer/assets/83329675/18a34f1c-4cf8-4127-b468-a9b0b88b81fa)
 
-[https://www.youtube.com/watch?v=45EBQyfsXC8&](https://www.youtube.com/watch?v=45EBQyfsXC8&)
+https://www.youtube.com/watch?v=45EBQyfsXC8&ab_channel=Bicardine
 
 ## Requirement
 - Naninovel v1.18 or later
@@ -24,7 +24,7 @@ Allows you to set countdown/visual timer to make choice
 ![Pic4](https://github.com/Bicardine/NaninovelTimer/assets/83329675/b4abee37-b226-42ca-81d0-6951b4f41cfe)
 
 
-# Adding a new TimerBarRenderer.
+# Adding a new TimerBarRenderer
 You can create different bars to display information about the remaining time. It can be either a graph or a number, depending on the implementation.
 
 1. Inherit TimerBarRenderer<T> where T is the value to Render() used for output.
