@@ -32,7 +32,8 @@ https://www.youtube.com/watch?v=45EBQyfsXC8&ab_channel=Bicardine
 You can modify current bars or create different type. To create a new type:
 
 1. Inherit TimerBarRenderer<T> where T is the value to Render() used for output.
-![Pic5](https://github.com/Bicardine/NaninovelTimer/assets/83329675/0b2bad00-54d6-4feb-83e8-ffe8cbd1bc24)
+![Pic5](https://github.com/Bicardine/NaninovelTimer/assets/83329675/745d7940-a679-4415-adbc-d818c968eed2)
+
 
 
 2. Then add the prefab of the new bar in TimerUI and set the previously created class.
