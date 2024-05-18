@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=45EBQyfsXC8&ab_channel=Bicardine
 1. Manage TimerUI in UI Resources:
 ![Pic1](https://github.com/Bicardine/NaninovelTimer/assets/83329675/e7481e03-981b-49a3-979e-0793e5e90c01)
 
-2. Enable/disable bars in TimerUI prefab:
+2. Enable/disable wishful bars in TimerUI prefab:
 ![Pic2](https://github.com/Bicardine/NaninovelTimer/assets/83329675/22a64d81-428d-4c2e-89fa-a746920f88d9)
 
 
@@ -28,11 +28,12 @@ https://www.youtube.com/watch?v=45EBQyfsXC8&ab_channel=Bicardine
 ![Pic4](https://github.com/Bicardine/NaninovelTimer/assets/83329675/b4abee37-b226-42ca-81d0-6951b4f41cfe)
 
 
-# Adding a new TimerBarRenderer
-You can create different bars to display information about the remaining time. It can be either a graph or a number, depending on the implementation.
+# Adding a new TimerBarRenderer type
+You can modify current bars or create different type. To create a new type:
 
 1. Inherit TimerBarRenderer<T> where T is the value to Render() used for output.
-![Pic5](https://github.com/Bicardine/NaninovelTimer/assets/83329675/0b2bad00-54d6-4feb-83e8-ffe8cbd1bc24)
+![Pic5](https://github.com/Bicardine/NaninovelTimer/assets/83329675/745d7940-a679-4415-adbc-d818c968eed2)
+
 
 
 2. Then add the prefab of the new bar in TimerUI and set the previously created class.
