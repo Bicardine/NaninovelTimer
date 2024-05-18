@@ -1,4 +1,3 @@
-@back AlchemyRoom id:AlchemyRoom visible:true
 @choice "Walk away" goto:.Choice1
 @choice "Apologise" goto:.Choice2
 @setTimer 8 goto:.OnTargetTime
@@ -13,5 +12,5 @@ You apologize for your words.
 @stop
 
 #OnTargetTime
-@alert "You said nothing"
+"You said nothing"
 @stop
